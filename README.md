@@ -85,7 +85,6 @@ http://localhost/register にアクセス
 ## 動作確認gif
 
 ・ユーザーの新規登録・ログイン・ログアウトとログイン保持
-<img width="1910" height="1120" alt="Image" src="https://github.com/user-attachments/assets/f764be3e-2e1d-4f43-b51e-bd1075ce2010" />
 
 ※ログインしていない状態で/dashボードにアクセスすると/loginにリダイレクトします
 <img width="1902" height="1126" alt="Image" src="https://github.com/user-attachments/assets/8ef94c33-ab8c-41c3-8231-f308c81192b4" />
